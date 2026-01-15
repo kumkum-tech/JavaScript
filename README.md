@@ -1,8 +1,6 @@
 # 📘 Learning JavaScript
 
-<br>
-
-**A personal repository documenting my journey from a JavaScript beginner to a proficient developer.**
+A personal repository documenting my journey from a JavaScript beginner to a proficient developer.
 
 ---
 
@@ -73,3 +71,10 @@ Here you’ll find:
 ```bash
 brew install node
 brew install git
+
+### 🐧 Linux
+---bash
+sudo apt install nodejs npm git
+
+
+
