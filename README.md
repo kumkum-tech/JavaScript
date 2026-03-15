@@ -1,4 +1,4 @@
-# 📘 Learning JavaScript
+# 📘 JavaScript
 
 A personal repository documenting my journey from a JavaScript beginner to a proficient developer.
 
